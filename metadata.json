@@ -1,0 +1,6 @@
+{
+  "name": "BiblioUSMBA - Plateforme Web de Bibliothèque",
+  "description": "Plateforme web full-stack de gestion de bibliothèque universitaire pour l'USMBA (Fès) : Next.js App Router, Supabase, authentification institutionnelle, OCR carte étudiant, catalogue, retards et espace bibliothécaire.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
